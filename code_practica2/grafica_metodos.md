@@ -65,6 +65,7 @@
     panelGrafica.setMaximumSize(new java.awt.Dimension(500, 400));
 }
 
+
 public void actualizarGrafica() {
     SwingUtilities.invokeLater(() -> {
         mostrarGrafica();
