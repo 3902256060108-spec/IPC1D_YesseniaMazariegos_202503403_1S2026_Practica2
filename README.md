@@ -1,0 +1,2 @@
+# IPC1D_YesseniaMazariegos_202503403_1S2026_Practica2
+practica 2 ordenamientos
