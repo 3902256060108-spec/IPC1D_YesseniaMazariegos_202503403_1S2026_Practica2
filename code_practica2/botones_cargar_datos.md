@@ -35,6 +35,8 @@
      txtMostrar.append("Arreglo aleatorio generado\n");
     mostrarArreglo();
     mostrarGrafica();
+
+    
     #Aleatorio
       Random r = new Random();
     int n = r.nextInt(26) + 5; // entre 5 y 30
