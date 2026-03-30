@@ -1,4 +1,5 @@
 #cargar datos
+
         try {
         String texto = txtDatos.getText(); 
         String[] numeros = texto.split(",");
@@ -38,6 +39,7 @@
 
     
     #Aleatorio
+    
       Random r = new Random();
     int n = r.nextInt(26) + 5; // entre 5 y 30
 
